@@ -1,0 +1,26 @@
+{
+  "name": "pokemon-mars",
+  "version": "1.0.0",
+  "description": "Pokemon Go on Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/pokemon-mars.git"
+  },
+  "keywords": [
+    "pokemon",
+    "mars"
+  ],
+  "author": "Nick Doiorn <ndoiron@mapmeld.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapmeld/pokemon-mars/issues"
+  },
+  "homepage": "https://github.com/mapmeld/pokemon-mars#readme",
+  "dependencies": {
+    "esri-to-geojson": "^1.0.2"
+  }
+}
